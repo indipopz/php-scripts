@@ -1,5 +1,5 @@
          
-ini_set("memory_limit", "-1");
+```php ini_set("memory_limit", "-1");
            set_time_limit(0);
            $host = $model->hostAddress;
            $user = $model->dbUser;
